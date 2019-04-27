@@ -1,2 +1,2 @@
 # coursera-dl
-Working repo for the deeplearning.ai DL specialization on Coursera
+Working repo for deeplearning.ai Neural Networks Specialization
